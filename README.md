@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariarua&label=Profile%20views&color=20df07&style=flat" alt="mariarua" /> </p>
 
-- 🔭 I’m currently working on *Hero to Superhero ( Woman who code )*
+- 🔭 I’m currently working on *Blankfactor CO*
 
 - 🌱 I’m currently learning *NextJS*
 
-- 💬 Ask me about *React, tailwind and node*
+- 💬 Ask me about *React, CSS and node*
 
 - 📫 How to reach me *ruavelezm@gmail.com*
 
