@@ -14,7 +14,7 @@
 
 - 📫 How to reach me *ruavelezm@gmail.com*
 
-- 📄 Know about my experiences [www.linkedin.com/in/mariaisabelrua](www.linkedin.com/in/mariaisabelrua)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mariaisabelrua](www.linkedin.com/in/mariaisabelrua)
 
 
 
